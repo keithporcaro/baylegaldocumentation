@@ -1,6 +1,4 @@
----
-layout: page
----
+
 # Prime Documentation
 
 ## Prime Integration

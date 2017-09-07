@@ -1,6 +1,3 @@
----
-layout: page
----
 
 * [Overview of feature](#overview-of-feature)
 * [Activation from Prime](#activation-from-prime)
