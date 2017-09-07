@@ -1,6 +1,5 @@
 ---
-layout: fullwidth
-headerimage: "/images/header/services_header.png"
+layout: page
 ---
 # Prime Documentation
 

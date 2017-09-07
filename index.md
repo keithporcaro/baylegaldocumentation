@@ -1,7 +1,4 @@
----
-layout: fullwidth
-headerimage: "/images/header/services_header.png"
----
+
 # Bay Area Legal Aid (2016) - Documentation
 
 * [Appointment and Referral Reminders](reminders)
