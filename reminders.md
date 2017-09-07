@@ -90,7 +90,7 @@ Editing or adding new offices can be done by modifying the `userData`. The proce
 
 New offices can be created in `userData`, with keys named in the format `Address [Office Name]` (e.g. `Address Oakland`). Similarly, data about office phone numbers are stored in `userData`, with the format `Phone [Office name]`. The "office" string passed to callFrontline() must match the office prefix in the userData. Strings are case sensitive.
 
-![office]({{site.baseurl}}/images/baylegal/office-addresses.png)
+![office](/images/baylegal/office-addresses.png)
 
 ### Unused but available features
 * **Document Reminders.** Clients can be reminded to bring certain documents to their appointment. To do so, add a `problem` field to the Frontline API call, which should contain a problem code. Then, in `userData`, corresponding document requirements can be filled in with the pattern `Docs [Problem Code]` (e.g. `Docs 43`)

@@ -58,11 +58,11 @@ When the client completes the survey, Frontline will send a thank-you text: `Tha
 
 ### Storing survey data
 FrontlineCloud stores most data against individual contacts. This means that if you visit a contact in Frontline, you'll see their most recently scheduled appointment and their most recent answers to survey questions. Note that for multiple choice questions, the answer text  (e.g. `red`) is stored, not the number choice it corresponds to (`1`)
-![client data]({{site.baseurl}}/images/baylegal/client-data.png)
+![client data](/images/client-data.png)
 
 ### Editing survey questions
 Survey questions are edited in userData. The process for doing so is a little convoluted: click on *Activities* in the main Frontline menu, then replace `/activities` in the URL with `/recipeManager` and hit Enter. Click on "BayLegal Survey Feedback v2", then the button marked "Manage UserData".
-![surveyquestions]({{site.baseurl}}/baylegal/imagesRecipe_UserData.png)
+![surveyquestions](/images/Recipe_UserData.png)
 
 Once you're there, you can create new surveys by selecting "simple single line text" in the dropdown menu, and using the key `Questions [label]` replacing `[label]` with a lowercase text label for the survey. 
 You'll also need to create an intro sentence, using the key `Intro [label]`, and the same `label` used for the corresponding survey.
@@ -88,7 +88,7 @@ You can also modify surveys by editing their value boxes. Press `Save all` when 
 ### Statistics
 The survey recipes (automations) store limited data about each survey, including the date a survey was requested, the date it was completed, each client's answers to each question, and the total surveys requested. You can see a brief summary of the survey statistics by clicking on `Activities` -> `BayLegal Survey Feedback v2`.
 
-For a more robust analysis of survey responses, you can [export data from Frontline]({site.baseurl}/client/baylegal/frontlinecloud#exporting-data). 
+For a more robust analysis of survey responses, you can [export data from Frontline](frontlinecloud#exporting-data). 
 
 
 
