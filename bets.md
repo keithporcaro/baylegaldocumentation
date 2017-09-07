@@ -28,8 +28,8 @@ Messages that do not begin with `all` will not be forwarded.
 ## Registration
 At the moment, registration must be done manually. In FrontlineCloud, you can select contacts and add them to a group in the people tab. First, select the contacts and hit "Edit Selected"
 
-![SMS](images/bets_edit_group.jpg)
+![SMS](/images/bets_edit_group.jpg)
 
 Then, select the group to add the selected contacts to.
 
-![SMS](images/bets_add_to_group.jpg)
+![SMS](/images/bets_add_to_group.jpg)
