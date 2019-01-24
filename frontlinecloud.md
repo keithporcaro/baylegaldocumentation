@@ -1,6 +1,3 @@
----
-layout: page
----
 # FrontlineCloud Documentation
 
 * [Navigating FrontlineCloud](#navigating-frontlinecloud)
